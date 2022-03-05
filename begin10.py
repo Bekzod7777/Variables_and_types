@@ -1,0 +1,7 @@
+a,b,c,d=input().split()
+a=int(a)
+b=int(b)
+c=int(c)
+d=int(d)
+K=2*(a*b-c*d)
+print(K)
